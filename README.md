@@ -11,11 +11,8 @@
 <h2 align="left">📌 About Me</h2>
 
 - 🧐 &nbsp; Researching new technologies, learning interesting knowledge, and continuously improving programming skills.
-- 
 - 👨‍🎓 &nbsp; Studying computer science and technology at NEEPU, hoping to become an excellent programmer.
-- 
 - 👨‍🎨 &nbsp; Learn CTF&&Web and conduct shallow research on multimodal deep learning during leisure time.
-- 
 - 😅 &nbsp; The idea of going out and taking a look always stays in thought rather than action.
 
 
