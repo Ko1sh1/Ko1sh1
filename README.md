@@ -9,10 +9,14 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ko1sh1" alt="ko1sh1" /></a> </p>-->
 
 <h2 align="left">📌 About Me</h2>
+
 - 🧐 &nbsp; Researching new technologies, learning interesting knowledge, and continuously improving programming skills.
+- 
 - 👨‍🎓 &nbsp; Studying computer science and technology at NEEPU, hoping to become an excellent programmer.
+- 
 - 👨‍🎨 &nbsp; Learn CTF&&Web and conduct shallow research on multimodal deep learning during leisure time.
-- 😅 &nbsp; The idea of going out and taking a look always stays in thought rather than action
+- 
+- 😅 &nbsp; The idea of going out and taking a look always stays in thought rather than action.
 
 
 <h2 align="left">📚 My Blog:</h2>
