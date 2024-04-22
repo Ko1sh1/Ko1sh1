@@ -25,7 +25,7 @@
 <h2 align="left">📧 Connect with me:</h2>
 <p> cirnokoishizp@gmail.com </p>
 
-<h2 align="left">🛠 Other content is under writing</h2>
+<h2 align="left">🛠 Other contents are under writing</h2>
 <!--
 **Ko1sh1/Ko1sh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
